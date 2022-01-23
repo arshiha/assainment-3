@@ -1,0 +1,14 @@
+.price-table{
+    padding: 60px 0;
+}
+.single-price{
+    margin: 10px auto;
+    display: inline;
+    float: left;
+    width: 100%;
+    background-color: #efefef;
+    
+}
+.parent{
+    display: grid;
+}
